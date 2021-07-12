@@ -12,4 +12,18 @@
   I. Supervised learning is a model that is trained using pre-defined examples and "labels" while unsupervised learning is is when the program is given data and finds patterns and relationships from said data to make predictions.
   
   II. Scikit-Learn is built on top of visualization libraries like Graphviz and Pandas. Therefore, Scikit-Learn does not have the power to visualize data without a Graphviz, Pandas, or other data analysis libraries.
+  
+  ### Day 4: July 9, 2021
+  **Real-world Problem:** There is an increased amount of toxins in the environment due to the increase in landfills. This ultimately increases land, water, and air pollution and toxic waste consumption by animals leads to devestation of ecosystems.
+  
+  **Data set:** [Kaggle Waste Classification Data](https://www.kaggle.com/techsash/waste-classification-data) contains imagines of organic and recyclable cobjects. 
+  
+  **Deep Learning Algorithm to use:** The ideal DL algorithm for this dataset would be Generative adversarial neural networks, which essentially generates patterns to distinguish gemuine samples from the fake ones. Essentially, this model would reject samples that are not recyclable and create samples that are recyclable, which means the model will classify the samples into two categories.
+  
+  ### Day 7: July 12, 2021
+  **1. What are “Tensors” and what are they used for in Machine Learning?**
+  
+**2. What did you notice about the computations that you ran in the TensorFlow
+programs (i.e. interactive models) in the tutorial?**
+   
    
