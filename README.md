@@ -22,8 +22,10 @@
   
   ### Day 7: July 12, 2021
   **1. What are “Tensors” and what are they used for in Machine Learning?**
+  A tensor is a representation of a physical object that is characterized by magnitude and multiple directions. Tensors are used in Machine Learning for storing multi-dimensional data.
   
 **2. What did you notice about the computations that you ran in the TensorFlow
 programs (i.e. interactive models) in the tutorial?**
+Tensorflow functions define the model, but do not actually complete the desired action unless there is an interactive session running. Also, the datasets have to be processed before training the model for better identification of relationships between data (feature extraction).
    
    
