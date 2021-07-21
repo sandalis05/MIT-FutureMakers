@@ -40,4 +40,15 @@ In this game, machine learning was used to create a model based on preexisting d
 
 One example of a real-world example of biased ML models is that for recruiting models that are based on prehistoric data of accepted candidates, certain underrepresented groups in race and gender may be excluded since in the past their numbers in the workforce were low. Some ways of making the model more inclusive is ensuring the data that trains the model is not entirely dependent on prehistoric trends but also takes into account cultural and social changes in today's society.
    
-   
+ ### Day 11: July 16, 2021
+ 
+ | Convolutional Neural Network | Fully Connected Neural Network |
+ | :---: | :---: |
+ | Sequence of different types of layers | Series of fully connected layers |
+ | Fully connected layers not required | Each neuron in one layer is connected to every neuron in adjacent layers |
+ | Inputs have to be images | Inputs have no special assumptions |
+ | Better for image classificaion | Not ideal for feature extraction |
+
+ 
+
+  
