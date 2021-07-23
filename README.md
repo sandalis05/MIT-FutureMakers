@@ -49,6 +49,14 @@ One example of a real-world example of biased ML models is that for recruiting m
  | Inputs have to be images | Inputs have no special assumptions |
  | Better for image classificaion | Not ideal for feature extraction |
 
+ ### Day 15: July 20, 2021
  
+ **Advantages of the Rectified Linear Unit (ReLU)**
+ - Avoids and rectifies the vanishing gradient problem, since ReLU only saturates in one direction
+ - Involves simpler mathematical operations compared to other activation functions like sigmoid and tanh
+ - Less computationally expensive due to its simplicity
+ 
+ **Use Case Example**
+ This activation function is commonly used in hidden layers for MLPs and CNNs.
 
   
