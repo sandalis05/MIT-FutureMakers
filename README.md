@@ -59,4 +59,9 @@ One example of a real-world example of biased ML models is that for recruiting m
  **Use Case Example**
  This activation function is commonly used in hidden layers for MLPs and CNNs.
 
+ ### Day 23: July 23, 2021
+  
+  Without regularization and dropout, the housing model shows that the model accuracy is high at ~90% and the loss for the training set is around .3 and for the validation set is .4.
+  When regularization and dropout was incorporated to the model, the graphs for the loss and accuracy were less linear and had more jumps within epochs. Howeever, compared to the model without regularization and dropout, the results between the training and validation data sets were more similar.
+  
   
